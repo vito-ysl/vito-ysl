@@ -17,8 +17,9 @@
 <h1 align="left">Minha Historia:</h1>
 
 ###
-
-<img align="center" height="200" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif"  />
+<div align="center">
+  <img  height="200" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif"  />
+</div>
 
 ###
 
