@@ -18,7 +18,7 @@
 
 ###
 <div align="center">
-  <img  height="200" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3oh21cuz7m2drumu8ad.png"  />
+  <img  height="200" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fv97q0ossev4w3xra51l.png"  />
 </div>
 
 ###
