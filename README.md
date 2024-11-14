@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h1 align="center">Minha Historia:</h1>
+<h1 align="left">Minha Historia:</h1>
 
 ###
 <div align="center">
