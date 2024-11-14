@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Sou apaixonado por computadores desde os meus 9 anos, quando tive meu primeiro contato com o terminal Linux. Naquele momento, fui fascinado pela capacidade de interagir diretamente com o sistema, explorar suas possibilidades e entender como as máquinas funcionam por dentro. Foi aí que minha jornada no mundo da programação começou, e desde então, nunca parei de aprender e me desafiar.</p>
+<p align="center"> Sou apaixonado por computadores desde os meus 9 anos, quando tive meu primeiro contato com o terminal Linux. Naquele momento, fui fascinado pela capacidade de interagir diretamente com o sistema, explorar suas possibilidades e entender como as máquinas funcionam por dentro. Foi aí que minha jornada no mundo da programação começou, e desde então, nunca parei de aprender e me desafiar.</p>
 
 ###
 
