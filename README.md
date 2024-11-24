@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">const descricao = "Desenvolvedor apaixonado por tecnologia desde criança (￣o￣) . z Z";<br>console.log(descricao);<br><br>$ Desenvolvedor apaixonado por tecnologia desde criança (￣o￣) . z Z</p>
+<p <br>console.log(descricao);<br><br>$ Desenvolvedor apaixonado por tecnologia desde criança (￣o￣) . z Z</p>
 
 ###
 
