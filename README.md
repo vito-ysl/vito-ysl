@@ -1,43 +1,24 @@
-<h2 align="left">👋 Olá, me chamo Vitor</h2>
+## 👋 Olá, me chamo Vitor!
+Desenvolvedor apaixonado por tecnologia desde criança, com vasta experiência em diversas linguagens de programação e desenvolvimento de sistemas. Busco constantemente inovação e soluções eficazes. Atualmente, curso **Analise e Desenvolvimento de Sistemas** e estou sempre aprimorando minhas habilidades em TI.
 
-###
+<img alt="My Character" src="https://i.imgur.com/18JuzUY.png" align="right" width="350px"/>
 
-<p <br>console.log(descricao);<br><br>$ Desenvolvedor apaixonado por tecnologia desde criança (￣o￣) . z Z</p>
+### 🛠️ Ferramentas
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=e9b991)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-3d3638?style=flat&logo=sublime-text&logoColor=e9b991)
+![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=e9b991)
 
-###
+### 🌍 Conhecimento
+![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=e9b991)
+![CSS](https://img.shields.io/badge/CSS3-3d3638?style=flat&logo=css3&logoColor=e9b991)
+![JavaScript](https://img.shields.io/badge/JavaScript-3d3638?style=flat&logo=javascript&logoColor=e9b991)
 
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1696.gif"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+![Python](https://img.shields.io/badge/Python-3d3638?style=flat&logo=python&logoColor=e9b991)
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/vito.ysl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=vito.ysl&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.discord/users/1086386382538289302" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=vito.ysl&logo=discord&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vito-ysl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=I'm%20still%20starting" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vito-ysl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+### 📋 Estatísticas
+![CarlinCV's Stats](https://github-readme-stats.vercel.app/api?username=vito-ysl&show_icons=true&theme=synthwave&bg_color=3d3638&text_color=e9b991&icon_color=e9b991&include_all_commits=true&count_private=true)
