@@ -12,10 +12,6 @@ Desenvolvedor apaixonado por tecnologia desde criança, com vasta experiência e
 ![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=e9b991)
 ![CSS](https://img.shields.io/badge/CSS3-3d3638?style=flat&logo=css3&logoColor=e9b991)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3d3638?style=flat&logo=javascript&logoColor=e9b991)
-
-
-
 ![Python](https://img.shields.io/badge/Python-3d3638?style=flat&logo=python&logoColor=e9b991)
 
-### 📋 Estatísticas
-![CarlinCV's Stats](https://github-readme-stats.vercel.app/api?username=vito-ysl&show_icons=true&theme=synthwave&bg_color=3d3638&text_color=e9b991&icon_color=e9b991&include_all_commits=true&count_private=true)
+
