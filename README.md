@@ -22,7 +22,7 @@
 
 <!-- Capa do topo -->
 <a href="https://github.com/Glauedson">
-  <img src="./assets/e01a354a45f835fba2448f65a5c7a7f5.gif" alt="Imagem de capa" width="100%" style="aspect-ratio: 3/1"/>
+  <img src="./assets/space.gif" alt="Imagem de capa" width="100%"/>
 </a>
 
 
@@ -39,7 +39,8 @@
 <a href="https://github.com/Glauedson">
   <img width="145px" 
        src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=265BBE&style=for-the-badge" 
-       alt="Visualizações no perfil" />
+       alt="Visualizações no perfil"
+       title="Total de visualizações"  />
 </a>
 <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
   <img width="115px" 
@@ -145,3 +146,5 @@
     width="100%" 
   />
 </p>
+
+
