@@ -32,8 +32,7 @@
 <h1 align="center">Eu Sou o Edson</h1>
 
 
-<h4 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Front-End. Apaixonado por tecnologia e design, busco constantemente aprender novas ferramentas e aprimorar minhas habilidades.</h4>
-
+<h4 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Front-End. Apaixonado por tecnologia e design, busco constantemente aprender novas ferramentas e aprimorar minhas habilidades.</h4> ㅤ
 
  <div align="center">
 <a href="https://github.com/Glauedson">
@@ -67,7 +66,8 @@
  🔭 Atualmente trabalhando em projetos com React.</br>
  💬 Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
  ⚡ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ✨ Amante do Minimalismo.
+ ✨ Amante do Minimalismo.</br>
+ ㅤ
   <div align="left"> 
 
 
@@ -117,7 +117,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,nodejs,tailwind,spring,react,postgres" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,github,git,notion,figma,electron" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,mysql,postman,supabase,express,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,mysql,postman,supabase,express,vite" /><br>
 </div>
 
 <br/>
