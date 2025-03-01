@@ -36,7 +36,7 @@
 
  <div align="center">
 <a href="https://github.com/Glauedson">
-  <img width="145px" 
+  <img width="163px" 
        src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=265BBE&style=for-the-badge" 
        alt="Visualizações no perfil"
        title="Total de visualizações"  />
@@ -100,12 +100,11 @@
 <h3 align="center">Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Glauedson&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
-
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glauedson&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=transparent&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 </div>
 
-<br/><br/>
+
 
 
 
