@@ -22,7 +22,7 @@
 
 <!-- Capa do topo -->
 <a href="https://github.com/Glauedson">
-  <img src="./assets/space.gif" alt="Imagem de capa" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/7c/84/f9/7c84f911339b84d1f69d70eb258e925f.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
 
@@ -37,7 +37,7 @@
  <div align="center">
 <a href="https://github.com/Glauedson">
   <img width="163px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=265BBE&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
        title="Total de visualizações"  />
 </a>
@@ -45,16 +45,16 @@
   <img width="115px" 
        alt="seguidores" 
        title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=265BBE&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /></a>
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /></a>
 <a href="https://github.com/Glauedson?tab=followers">
   <img width="150px" 
        alt="seguidores" 
        title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=265BBE&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" /></a>
  </div>
 
 
-<img align="right" alt="capa-Sobre" width="300" src="./assets/capa-Profile.png">
+<img align="right" alt="capa-Sobre" width="300" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif">
 
 
 <!-- about me -->
@@ -100,9 +100,15 @@
 <h3 align="center">Github Status</h3>
 <br>
 <div align="center">
-  
+
+<!-- Blue
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=transparent&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
 
 
 
@@ -141,7 +147,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=265BBE&height=80&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
     width="100%" 
   />
 </p>
