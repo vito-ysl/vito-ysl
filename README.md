@@ -105,7 +105,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=transparent&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
