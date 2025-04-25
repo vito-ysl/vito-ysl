@@ -16,11 +16,11 @@
 
 ###
 
-<h2 align="left">Studies</h2>
+<p align="left">Studies</p>
 
 ###
 
-<p align="left">📖 Currently studying **ADS**</p>
+<p align="left">📖 Currently studying Análise e Desenvolvimento de Sistemas (ADS) </p>
 
 ###
 
