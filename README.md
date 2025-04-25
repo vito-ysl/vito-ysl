@@ -18,9 +18,9 @@
 
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=vito-ysl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vito-ysl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5eHY1Y2w2YWdsNDF4dmcybGh3emE3MmF5aGJoZ3dhdHNhcjNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLno4iRM43kYrwKnKr/giphy.gif" alt="GIF">
+</p>
 
 
 ###
