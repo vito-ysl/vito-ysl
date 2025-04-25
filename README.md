@@ -1,6 +1,28 @@
 ## 👋 Hi, my name is Vitor
 
-Desde criança, sempre fui fascinado por tecnologia e como ela pode transformar o mundo ao nosso redor. Essa paixão me levou a explorar diversas linguagens de programação e a me aprofundar no desenvolvimento de sistemas, acumulando uma experiência rica e diversificada ao longo dos anos. Sou movido pela busca constante por inovação e por soluções que realmente façam a diferença. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde continuo expandindo meus conhecimentos e habilidades. Além disso, dedico meu tempo a aprender novas ferramentas e tendências na área de TI, sempre com o objetivo de me tornar um profissional mais completo e preparado para os desafios do futuro.
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Vitor and I'm a Systems Analysis and Development student, from Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since childhood, when I first became fascinated by technology and its power to transform the world around us.<br>📚 I'm currently learning new tools and trends in IT to expand my knowledge and skills.<br>🎯 Goals: To innovate and create solutions that truly make a difference.<br>🎲 Fun fact: I'm driven by a constant quest for innovation and love exploring diverse programming languages.</p>
+
+###
+
+<h2 align="left">Studies</h2>
+
+###
+
+<p align="left">📖 Currently studying **ADS**</p>
+
+###
 
 
 
@@ -10,12 +32,6 @@ Desde criança, sempre fui fascinado por tecnologia e como ela pode transformar 
 
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vito-ysl/vito-ysl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vito-ysl/vito-ysl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vito-ysl/vito-ysl/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ###
@@ -38,3 +54,44 @@ Desde criança, sempre fui fascinado por tecnologia e como ela pode transformar 
 ![Node.js](https://img.shields.io/badge/Node.js-3d3638?style=flat&logo=node.js&logoColor=e9b991)
 ![Java](https://img.shields.io/badge/Java-3d3638?style=flat&logo=java&logoColor=e9b991)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d3638?style=flat&logo=postgresql&logoColor=e9b991)
+
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h>2
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
