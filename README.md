@@ -1,6 +1,7 @@
 ## 👋 Hi, my name is Vitor
 
-A developer passionate about technology since childhood 🌟, with extensive experience in various programming languages 💻 and system development 🛠️. Constantly seeking innovation 🚀 and effective solutions 🔍. Currently pursuing **Análise e Desenvolvimento de Sistemas** 📚 and continuously improving my skills in IT 🖥️. Enthusiastic about learning new technologies 🧠, collaborating on open-source projects 🤝, and contributing to the tech community 🌐. Always eager to tackle challenging problems 🧩 and deliver impactful results 🎯.
+Desde criança, sempre fui fascinado por tecnologia e como ela pode transformar o mundo ao nosso redor. Essa paixão me levou a explorar diversas linguagens de programação e a me aprofundar no desenvolvimento de sistemas, acumulando uma experiência rica e diversificada ao longo dos anos. Sou movido pela busca constante por inovação e por soluções que realmente façam a diferença. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde continuo expandindo meus conhecimentos e habilidades. Além disso, dedico meu tempo a aprender novas ferramentas e tendências na área de TI, sempre com o objetivo de me tornar um profissional mais completo e preparado para os desafios do futuro.
+
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=vito-ysl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
