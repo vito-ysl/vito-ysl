@@ -25,12 +25,12 @@
 
 ### 🛠️ Tool's        
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3638?style=flat&logo=visual-studio-code&logoColor=e9b991)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-3d3638?style=flat&logo=sublime-text&logoColor=e9b991)
-![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=e9b991)
-![MySQL](https://img.shields.io/badge/MySQL-3d3638?style=flat&logo=mysql&logoColor=e9b991)
-![Neovim](https://img.shields.io/badge/Neovim-3d3638?style=flat&logo=neovim&logoColor=e9b991)
-![Linux](https://img.shields.io/badge/Linux-3d3638?style=flat&logo=linux&logoColor=e9b991)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-black?style=flat&logo=sublime-text&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-black?style=flat&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
 
 ### 🌍 Skill's
 
