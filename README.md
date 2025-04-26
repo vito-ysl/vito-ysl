@@ -25,7 +25,7 @@
 
 ### 🛠️ Tool's        
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-black?style=flat&logo=sublime-text&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
@@ -34,12 +34,12 @@
 
 ### 🌍 Skill's
 
-![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=e9b991)
-![CSS](https://img.shields.io/badge/CSS3-3d3638?style=flat&logo=css3&logoColor=e9b991)
-![JavaScript](https://img.shields.io/badge/JavaScript-3d3638?style=flat&logo=javascript&logoColor=e9b991)
-![Python](https://img.shields.io/badge/Python-3d3638?style=flat&logo=python&logoColor=e9b991)
-![Node.js](https://img.shields.io/badge/Node.js-3d3638?style=flat&logo=node.js&logoColor=e9b991)
-![Java](https://img.shields.io/badge/Java-3d3638?style=flat&logo=java&logoColor=e9b991)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d3638?style=flat&logo=postgresql&logoColor=e9b991)
+![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white)
 
 
