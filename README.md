@@ -25,7 +25,7 @@
 
 ### 🛠️ Tool's        
 
-![Visual Studio]()
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3638?style=flat&logo=visual-studio-code&logoColor=e9b991)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-3d3638?style=flat&logo=sublime-text&logoColor=e9b991)
 ![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=e9b991)
 ![MySQL](https://img.shields.io/badge/MySQL-3d3638?style=flat&logo=mysql&logoColor=e9b991)
