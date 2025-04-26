@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since childhood, when I first became fascinated by technology and its power to transform the world around us.<br>📚 I'm currently learning new tools and trends in IT to expand my knowledge and skills.<br>🎯 Goals: To innovate and create solutions that truly make a difference.<br>🎲 Fun fact: I'm driven by a constant quest for innovation and love exploring diverse programming languages.<br>📖 Currently studying Análise e Desenvolvimento de Sistemas (ADS).</p>
+<p align="left">✨ Creating bugs since childhood, when I first became fascinated by technology and its power to transform the world around us.<br>📚 I'm currently learning new tools and trends in IT to expand my knowledge and skills.<br>🎯 Goals: To innovate and create solutions that truly make a difference.<br>🎲 Fun fact: I'm driven by a constant quest for innovation and love exploring diverse programming languages.<br>📖 Currently studying Análise e Desenvolvimento de Sistemas (ADS). </p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ### 🛠️ Tool's        
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-black?style=flat&logo=sublime-text&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
