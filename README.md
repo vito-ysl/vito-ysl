@@ -17,7 +17,7 @@
 ###
 
 
-<p align="left">
+<p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kwcG9scnJyNDU1NzUxd2F6bmF4MHY4dWNwdDB5ZXRyNjBxeHMyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dJxCqNAq9iFw10eUC1/giphy.gif" alt="GIF" width="250px" style="background: transparent;">
 </p>
 
