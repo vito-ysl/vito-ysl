@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since childhood, when I first became fascinated by technology and its power to transform the world around us.<br>📚 I'm currently learning new tools and trends in IT to expand my knowledge and skills.<br>🎯 Goals: To innovate and create solutions that truly make a difference.<br>🎲 Fun fact: I'm driven by a constant quest for innovation and love exploring diverse programming languages.<br>📖 Currently studying Análise e Desenvolvimento de Sistemas (ADS). </p>
+<p align="left">"A computer is like an air conditioner - it becomes useless when you open Windows." - Linus Torvalds</p>
 
 ###
 
