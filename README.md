@@ -30,9 +30,8 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" /></a>
  </div>
 
- </br>
 
-<img align="right" alt="capa-Sobre" width="330" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 
 <!-- um pouco sobre mim -->
@@ -46,7 +45,7 @@
  ㅤ
   <div align="center"> 
 
-  <a href="mailto:glauedson18s@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
@@ -59,7 +58,7 @@
   </div></h4>
 
 </div>
-<br/>
+</br>
 
 <!-- meus projetos 
 <h3 align="center" width="100%">Meus Projetos:</h3>
@@ -71,6 +70,7 @@
 
 
 <!-- git stat-->
+
 <h3 align="center">Github Status</h3>
 <br>
 <div align="center">
