@@ -1,24 +1,3 @@
-<!-- Onda Topo
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
-
-<!-- Onda Base 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
-
 
 <!-- Capa do topo -->
 <a href="https://github.com/Glauedson">
@@ -27,14 +6,12 @@
 
 
 <!-- Greeting -->
-</h1>
 <p align="center">Seja Bem-vindo</p>
 <h1 align="center">Eu Sou o Edson</h1>
 
-
 <h4 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Front-End. Apaixonado por tecnologia e design, busco constantemente aprender novas ferramentas e aprimorar minhas habilidades.</h4> ㅤ
 
- <div align="center">
+<div align="center">
 <a href="https://github.com/Glauedson">
   <img width="163px" 
        src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
@@ -53,36 +30,33 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" /></a>
  </div>
 
+ </br>
 
 <img align="right" alt="capa-Sobre" width="300" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif">
 
 
-<!-- about me -->
+<!-- um pouco sobre mim -->
  <h3 align="left">Um Pouco Sobre Mim</h3>
 
-
-
-  🌱 Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
+ 🌱 Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
  🔭 Atualmente trabalhando em projetos com React.</br>
  💬 Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
  ⚡ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ✨ Amante do Minimalismo.</br>
+ ✨ Amante do Minimalismo.
  ㅤ
-  <div align="left"> 
+  <div align="center"> 
 
+  <a href="mailto:glauedson18s@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
+  <a href="https://github.com/Glauedson/WhatIsTheLanguage" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
+  </a>
 
-  
-
-  <a href="glauedson18s@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify"></a>
-
-
-
-  
-  
-</div></h4>
+  </div></h4>
 
 </div>
 <br/>
@@ -100,10 +74,6 @@
 <h3 align="center">Github Status</h3>
 <br>
 <div align="center">
-
-<!-- Blue
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=transparent&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
--->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
@@ -132,12 +102,23 @@
 
 <!-- top repo -->
 <div align="center">
-  <h3> Meus Melhores Repositorios</h3>
+  <h3> Meus Melhores Repositorios</h3></br>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/yeho.net">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
+    <a href="https://github.com/Glauedson/SPACED">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+    <a href="https://github.com/Glauedson/Supla-Events">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Supla-Events&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Glauedson/WhatIsTheLanguage">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+    <a href="https://github.com/Glauedson/Tapiocaria">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
