@@ -124,11 +124,12 @@
 </div>
 </br>
 
-<!-- conquistas -->
+<!-- conquistas 
 <h3 align="center">Minhas Conquistas</h3>
 <p align="center">
   <img src="https://metrics.lecoq.io/Glauedson?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin_achievements=1&plugin_achievements.display=compact&config.timezone=America%2FSao_Paulo" />
 </p>
+-->
 
 <!-- ending-->
 
