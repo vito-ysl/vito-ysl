@@ -32,17 +32,17 @@
 
  </br>
 
-<img align="right" alt="capa-Sobre" width="300" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif">
+<img align="right" alt="capa-Sobre" width="330" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
 
 
 <!-- um pouco sobre mim -->
- <h3 align="left">Um Pouco Sobre Mim</h3>
+ <h3 align="center">Um Pouco Sobre Mim</h3>
 
- 🌱 Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
- 🔭 Atualmente trabalhando em projetos com React.</br>
- 💬 Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
- ⚡ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ✨ Amante do Minimalismo.
+ ⬛ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
+ ⬜ Atualmente trabalhando em projetos com React.</br>
+ ⬛ Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
+ ⬜ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
+ ⬛ Amante do Minimalismo.
  ㅤ
   <div align="center"> 
 
@@ -90,9 +90,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,nodejs,tailwind,spring,react,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,github,git,notion,figma,electron" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,mysql,postman,supabase,express,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,vite,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,kotlin,spring,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,vercel,notion" /><br>
 </div>
 
 <br/>
@@ -121,8 +122,13 @@
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
+</br>
 
-
+<!-- conquistas -->
+<h3 align="center">Minhas Conquistas</h3>
+<p align="center">
+  <img src="https://metrics.lecoq.io/Glauedson?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin_achievements=1&plugin_achievements.display=compact&config.timezone=America%2FSao_Paulo" />
+</p>
 
 <!-- ending-->
 
