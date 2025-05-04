@@ -25,7 +25,24 @@
        title="seguidores no GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
- </div>
+</div>
+
+</br>
+
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<div align="center">
+
+**Quem Sou Eu?**
+</div>
+
+Sou estudante de `Análise e Desenvolvimento de Sistemas` no `Instituto Federal de Ciência e Tecnologia do Ceará` **(IFCE).** Minha jornada no mundo da tecnologia começou cedo: aos 14 anos, comecei a programar pequenos jogos 3D na Unity, e logo depois mergulhei no universo dos jogos 2D com o GameMaker. Aos 15, descobri minha veia criativa e atuei como designer gráfico freelancer, o que também alimentou meu interesse por interfaces e estética visual.
+
+Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programação. Desde então, venho dedicando meu tempo a estudar com profundidade as áreas de desenvolvimento, com foco especial em `Desenvolvimento Web Fullstack`. Apesar de estudar o ecossistema completo, meu verdadeiro ponto forte, e o que mais gosto de explorar, é o `Front-End`, onde consigo unir lógica, criatividade e design.
+ ㅤ
+</br>
+
+
+
 
 <!-- um pouco sobre mim -->
 
@@ -35,7 +52,7 @@
 <!-- minha descrição simples -->
  <h3 align="center">
   <img src="./assets/icons/user-white.svg" width=15>
-  Um Pouco Sobre Mim 
+  Um Pouco Mais Sobre Mim 
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
