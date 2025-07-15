@@ -48,7 +48,7 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
 <!-- um pouco sobre mim -->
 
 <!-- Gif que fica ao lado da minha descrição simples -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="../assets/penguin.gif"></br>
 
 <!-- minha descrição simples -->
  <h3 align="center">
