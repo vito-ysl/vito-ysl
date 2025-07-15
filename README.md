@@ -57,10 +57,10 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
- Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
- Atualmente continuo criando projetos.</br>
- Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- Amante do Minimalismo.<br>
+❯ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
+❯ Atualmente continuo criando projetos.</br>
+❯ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
+❯ Amante do Minimalismo.<br>
  ㅤ
   <!-- minhas redes e spotify --> 
 
