@@ -48,7 +48,7 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
 <!-- um pouco sobre mim -->
 
 <!-- Gif que fica ao lado da minha descrição simples -->
-<img align="right" alt="capa-Sobre" width="300" src="../assets/penguin.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="https://github.com/vito-ysl/vito-ysl/blob/main/assets/penguin.gif"></br>
 
 <!-- minha descrição simples -->
  <h3 align="center">
