@@ -35,12 +35,13 @@
 **Quem Sou Eu?**
 </div>
 
-Sou estudante de `Análise e Desenvolvimento de Sistemas` na `Universidade de Viçosa` **(Univiçosa).** Minha jornada no mundo da tecnologia começou cedo: aos 14 anos, comecei a programar pequenos projetos, e logo depois mergulhei no universo dos Programadores. Aos 15, descobri minha vontade de aprender cada vez mais e mais.
+Sou estudante de `Análise e Desenvolvimento de Sistemas na Universidade de Viçosa` `(Univiçosa)`. Minha jornada no mundo da tecnologia começou cedo: aos 14 anos, comecei a programar pequenos projetos, e logo depois mergulhei no universo dos Programadores. Aos 15, descobri minha vontade de aprender cada vez mais e mais.
 
-Foi aos 18, ao ingressar na faculdade, que pulei de cabeça no mundo da programação. Desde então, venho dedicando meu tempo a estudar com profundidade as áreas de desenvolvimento, com foco especial em `Desenvolvimento Mobile`. Meu verdadeiro ponto forte, e o que mais gosto de explorar, é o `Back-End`, onde consigo unir lógica, pequenas gambiarras e perder um poquinho de cabelo.
+Foi aos 18, ao ingressar na faculdade, que pulei de cabeça no mundo da programação. Desde então, venho dedicando meu tempo a estudar com profundidade as áreas de desenvolvimento, com foco especial em `Desenvolvimento Mobile`. Meu verdadeiro ponto forte, e o que mais gosto de explorar, é o `Back-End`, onde consigo unir lógica, resolver problemas complexos, estruturar sistemas robustos e — claro — fazer aquela gambiarra estratégica quando necessário (e perder um pouquinho de cabelo no processo).
+
+Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segurança da informação`, sempre buscando entender como os sistemas funcionam — e como podem ser explorados — para torná-los mais seguros.
  ㅤ
 </br>
-
 
 
 
@@ -56,10 +57,10 @@ Foi aos 18, ao ingressar na faculdade, que pulei de cabeça no mundo da programa
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
- ⬛ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
- ⬜ Atualmente continuo criando projetos.</br>
- ⬜ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ⬛ Amante do Minimalismo.<br>
+ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
+ Atualmente continuo criando projetos.</br>
+ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
+ Amante do Minimalismo.<br>
  ㅤ
   <!-- minhas redes e spotify --> 
 
