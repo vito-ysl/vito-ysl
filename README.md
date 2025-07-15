@@ -1,43 +1,43 @@
 <!-- 13 17 23 -->
 <!-- Banner do meu perfil -->
-<a href="https://github.com/Glauedson">
+<!--<a href="https://github.com/vito-ysl">
   <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
-
+-->
 <!-- Algumas metricas views/stars/followers -->
 </br>
 <div align="center">
-<a href="https://github.com/Glauedson">
+<a href="https://github.com/vito-ysl">
   <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=vito-ysl&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
        title="Total de visualizações"/> 
 </a>
-<a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+<a href="https://api.github-star-counter.workers.dev/user/vito-ysl">
   <img width="115px" 
        alt="seguidores" 
        title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/vito-ysl" /> 
 </a>
-<a href="https://github.com/Glauedson?tab=followers">
+<a href="https://github.com/vito-ysl?tab=followers">
   <img width="150px" 
        alt="seguidores" 
        title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       src="https://custom-icon-badges.herokuapp.com/github/followers/vito-ysl?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
 
 </br>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<!--<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">-->
 <div align="center">
 
 **Quem Sou Eu?**
 </div>
 
-Sou estudante de `Análise e Desenvolvimento de Sistemas` no `Instituto Federal de Ciência e Tecnologia do Ceará` **(IFCE).** Minha jornada no mundo da tecnologia começou cedo: aos 14 anos, comecei a programar pequenos jogos 3D na Unity, e logo depois mergulhei no universo dos jogos 2D com o GameMaker. Aos 15, descobri minha veia criativa e atuei como designer gráfico freelancer, o que também alimentou meu interesse por interfaces e estética visual.
+Sou estudante de `Análise e Desenvolvimento de Sistemas` na `Universidade de Viçosa` **(Univiçosa).** Minha jornada no mundo da tecnologia começou cedo: aos 14 anos, comecei a programar pequenos projetos, e logo depois mergulhei no universo dos Programadores. Aos 15, descobri minha vontade de aprender cada vez mais e mais.
 
-Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programação. Desde então, venho dedicando meu tempo a estudar com profundidade as áreas de desenvolvimento, com foco especial em `Desenvolvimento Web Fullstack`. Apesar de estudar o ecossistema completo, meu verdadeiro ponto forte, e o que mais gosto de explorar, é o `Front-End`, onde consigo unir lógica, criatividade e design.
+Foi aos 18, ao ingressar na faculdade, que pulei de cabeça no mundo da programação. Desde então, venho dedicando meu tempo a estudar com profundidade as áreas de desenvolvimento, com foco especial em `Desenvolvimento Mobile`. Meu verdadeiro ponto forte, e o que mais gosto de explorar, é o `Back-End`, onde consigo unir lógica, pequenas gambiarras e perder um poquinho de cabelo.
  ㅤ
 </br>
 
@@ -57,23 +57,21 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
  </h3>
 
  ⬛ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
- ⬜ Atualmente trabalhando em projetos com React.</br>
- ⬛ Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
+ ⬜ Atualmente continuo criando projetos.</br>
  ⬜ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ⬛ Amante do Minimalismo.
+ ⬛ Amante do Minimalismo.<br>
  ㅤ
   <!-- minhas redes e spotify --> 
+
   <div align="center"> 
 
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=vitorevangelista0557@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitu-ysl/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
-  <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
-  </a>
+
 
   </div>
 
@@ -93,7 +91,7 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 <!-- Status -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vito-ysl&theme=highcontrast&hide_border=true&locale=pt_BR&background=98EBCF00)](https://git.io/streak-stats)
 </div>
 
 
@@ -109,10 +107,9 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,vite,supabase" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,kotlin,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=github,figma,vercel,notion,md" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,spring,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,notion"/><br>
 </div>
 
 <br/>
@@ -120,7 +117,7 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 
 
 
-<!-- meus melhores repositorios -->
+<!-- meus melhores repositorios 
 <div align="center">
 
   <h3>
@@ -148,7 +145,7 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
     </a>
 </div>
 </br>
-
+-->
 <!-- conquistas 
 <h3 align="center">Minhas Conquistas</h3>
 <p align="center">
