@@ -1,9 +1,10 @@
 <!-- 13 17 23 -->
 <!-- Banner do meu perfil -->
-<!--<a href="https://github.com/vito-ysl">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+<div align="center">
+<a href="https://github.com/vito-ysl">
+  <img src="./assets/banner.png" alt="Imagem de capa"  style="width:50%; height:auto"/>
 </a>
--->
+</div>
 <!-- Algumas metricas views/stars/followers -->
 </br>
 <div align="center">
@@ -29,7 +30,6 @@
 
 </br>
 
-<!--<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">-->
 <div align="center">
 
 **Quem Sou Eu?**
