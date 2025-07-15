@@ -50,10 +50,7 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
 <!-- Gif que fica ao lado da minha descrição simples -->
 <img align="right" alt="capa-Sobre" width="300" src="https://github.com/vito-ysl/vito-ysl/blob/main/assets/penguin.gif"></br>
 
-</br>
-</br>
-</br>
-</br>
+
 </br>
 <!-- minha descrição simples -->
  <h3 align="center">
@@ -68,6 +65,9 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
 ❯ Amante do Minimalismo.<br>
  ㅤ
   <!-- minhas redes e spotify --> 
+  </br>
+</br>
+</br>
 
   <div align="center"> 
 
