@@ -2,7 +2,7 @@
 <!-- Banner do meu perfil -->
 <div align="center">
 <a href="https://github.com/vito-ysl">
-  <img src="./assets/banner.png" alt="Imagem de capa"  style="width:50%; height:auto"/>
+  <img src="./assets/banner.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 </div>
 
