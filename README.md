@@ -64,7 +64,7 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
 
 
 <!-- github status-->
-<!-- Titutlo -->
+<!-- Titutlo 
 <h3 align="center">
 <img src="./assets/icons/github-white.svg" width=18>
  Github Status 
