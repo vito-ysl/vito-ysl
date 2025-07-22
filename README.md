@@ -72,13 +72,13 @@ Além do desenvolvimento, também sou entusiasta da área de `Pentest` e `segura
 </h3>
 <br>
 
-<!-- Status -->
+<!-- Status 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vito-ysl&theme=highcontrast&hide_border=true&locale=pt_BR&background=98EBCF00)](https://git.io/streak-stats)
 </div>
 
-
+-->
 
 <!-- Minhas Stacks -->
 <!-- Titulo -->
