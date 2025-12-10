@@ -4,11 +4,28 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=vito-ysl&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando no governo municipal de presidente bernardes mg <br/> Eu sou desenvolvedor Senior</p>
+```js
+import Desenvolvedor from "vito-ysl";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Vitor Evangelista";
+  area = "Senior";
+  trabalho = "GOV Presidente Bernardes";
+  local = "Presidente Bernardes / MG";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript", "PHP"];
+  bibliotecas = ["React", "Express"];
+  frameworks = ["Next.js", "CodeIgniter"];
+  databases = ["MySQL", "PostgreSQL", "MongoDB"];
+}
+```
+
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
-    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=f1f1f1&section=footer&reversal=true&"
+    
   />
 </p>
 
